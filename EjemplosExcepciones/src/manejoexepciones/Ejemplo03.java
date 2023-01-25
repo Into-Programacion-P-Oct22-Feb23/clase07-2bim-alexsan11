@@ -17,7 +17,7 @@ public class Ejemplo03 {
             int valor2 = 0;
             int resultado = valor1 / valor2;
         
-            System.out.printf("Resultado %d", resultado);
+            System.out.printf("Resultado %d.\n", resultado);
             
         }
         catch(ArithmeticException arithmeticException){

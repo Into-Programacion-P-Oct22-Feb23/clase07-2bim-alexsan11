@@ -15,6 +15,8 @@ import java.util.Scanner;
 public class Ejemplo05 {
     
     public static void main(String[] args) {
+        
+        
         try{
             Scanner entrada = new Scanner(System.in);
             System.out.println("Ingrese valor 1:");
@@ -36,8 +38,9 @@ public class Ejemplo05 {
             System.out.printf("De tipo %s\n", arithmeticException);
         
         }
+        System.out.println("Continuamos");
         
         
-               
+        
     }
 }
